@@ -5,6 +5,7 @@ categories: [life, geek]
 tagline: "第一次总是疼痛难耐却又满怀欣喜。例如在wordpress写这篇文章的时候，以及把这篇文章搬到jekyll的时候。"
 tags: [生活, 折腾, 编程, geek]
 ---
+{% include JB/setup %}
 
 
 这是我人生中值得纪念的一个日子:2011.11.26,我的独立博客终于建起来了.  

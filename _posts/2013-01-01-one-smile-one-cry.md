@@ -5,6 +5,7 @@ categories: life
 tagline: 
 tags: [生活, 拖延症, 广州]
 ---
+{% include JB/setup %}
 
 
 	   生活很奇妙。
