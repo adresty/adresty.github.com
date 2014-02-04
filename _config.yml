@@ -6,7 +6,7 @@ markdown: rdiscount
 
 author: "adresty"
 atom-baseurl: "http://adresty.com"
-disqus: "adresty"
+disqus: "adresty-git"
 
 navigations:
   - title: Archive
