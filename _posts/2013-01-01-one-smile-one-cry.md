@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "从来只见新人笑，何曾听闻旧人哭"
+guid: urn:uuid:57e584ce-da21-493e-b834-5e4b31d4712f
 categories: life
 tagline: 
 tags: [生活, 拖延症, 广州]
