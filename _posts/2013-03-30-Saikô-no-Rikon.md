@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "《最完美的离婚》"
+guid: urn:uuid:4d67d280-ed0b-4a2c-aebf-16f8432efcc0
 categories: life
 tagline: "爱情是痛苦的，婚姻是4倍的痛苦。"
 tags: [日剧, 电视剧, 爱情, 感悟]
