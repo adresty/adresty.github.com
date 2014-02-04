@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "一个崭新的生活开始了！"
+guid: urn:uuid:5a866328-1b70-4c58-aa6c-0b9dc6c1fd43
 categories: [life, geek]
 tagline: "第一次总是疼痛难耐却又满怀欣喜。例如在wordpress写这篇文章的时候，以及把这篇文章搬到jekyll的时候。"
 tags: [生活, 折腾, 编程, geek]
