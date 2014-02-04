@@ -5,7 +5,6 @@ header: Posts By Daodao
 group: navigation
 tagline: "柳刀刀"
 ---
-{% include JB/setup %}
 
 
 
