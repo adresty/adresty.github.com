@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "干燥的秋天"
+guid: urn:uuid:2b3e7f83-541b-455e-8c19-9de25d8c3bae
 categories: life
 tagline: "广州的生活其实挺好。"
 tags: [生活, 广州, 工作, 压力]
