@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我还活着"
-guid: urn:uuid:5a866328-1b70-4c58-aa6c-0b9dc6c1fd43
+guid: urn:uuid:ed9abcea-7ac2-43ce-84d0-a7af30403ef1
 categories: life
 tagline: "没有意义的人生本身就是一种有意义的人生。"
 tags: [生活, 拖延症, 工作, 感悟]
