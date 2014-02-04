@@ -9,7 +9,7 @@ tagline: "柳刀刀"
 
 
 
-![avatar](/assets/images/avatar.jpg)
+![avatar](/media/files/images/avatar.jpg)
 ***一个会敲键盘的化学分析师。***
 
 一个化学专业的业余coding爱好者，能力仅限于把所看到的代码输入到电脑上。没有丝毫代码知识，没有任何编程方面的创造能力。  
@@ -37,7 +37,7 @@ tagline: "柳刀刀"
 ---
 
 
-[![G+](/assets/images/logo/gplus.jpg)](https://plus.google.com/u/0/106074611172059885510/about)
-[![facebook](/assets/images/logo/facebook.jpg)](https://www.facebook.com/lau.adresty)
-[![twitter](/assets/images/logo/twitter.jpg)](http://www.twitter.com/adresty)
-[![github](/assets/images/logo/github.jpg)](https://github.com/adresty)
+[![G+](/media/files/images/logo/gplus.jpg)](https://plus.google.com/u/0/106074611172059885510/about)
+[![facebook](/media/files/images/logo/facebook.jpg)](https://www.facebook.com/lau.adresty)
+[![twitter](/media/files/images/logo/twitter.jpg)](http://www.twitter.com/adresty)
+[![github](/media/files/images/logo/github.jpg)](https://github.com/adresty)

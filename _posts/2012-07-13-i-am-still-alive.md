@@ -1,11 +1,10 @@
----
+/media/files/---
 layout: post
 title: "我还活着"
 categories: life
 tagline: "没有意义的人生本身就是一种有意义的人生。"
 tags: [生活, 拖延症, 工作, 感悟]
 ---
-{% include JB/setup %}
 
 
 ######我还活着。  
@@ -18,7 +17,7 @@ tags: [生活, 拖延症, 工作, 感悟]
     
       
         
- ![blogging](/assets/images/xiaodai.jpg)
+ ![blogging](/media/files/2012/07/xiaodai.jpg)
 
 
 
