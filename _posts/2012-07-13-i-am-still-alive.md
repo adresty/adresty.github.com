@@ -1,4 +1,4 @@
-/media/files/---
+---
 layout: post
 title: "我还活着"
 categories: life
