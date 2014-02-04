@@ -31,4 +31,4 @@ tagline: "柳刀刀"
 
 ---
 
-[[G+](/media/files/images/logo/gplus.jpg)](https://plus.google.com/u/0/106074611172059885510/about)[[facebook](/media/files/images/logo/facebook.jpg)](https://www.facebook.com/lau.adresty)[[twitter](/media/files/images/logo/twitter.jpg)](http://www.twitter.com/adresty)[[github](/media/files/images/logo/github.jpg)](https://github.com/adresty)
+[![G+](/media/files/images/logo/gplus.jpg)](https://plus.google.com/u/0/106074611172059885510/about)[![facebook](/media/files/images/logo/facebook.jpg)](https://www.facebook.com/lau.adresty)[![twitter](/media/files/images/logo/twitter.jpg)](http://www.twitter.com/adresty)[![github](/media/files/images/logo/github.jpg)](https://github.com/adresty)
