@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: POST
 title: About
+guid: urn:uuid:1a4e07d7-6569-49e8-9ad4-a785ecc094eb
 header: Posts By Daodao
 group: navigation
 tagline: "柳刀刀"
@@ -8,8 +9,9 @@ tagline: "柳刀刀"
 
 
 
-![avatar](/media/files/images/avatar.jpg)
 ***一个会敲键盘的化学分析师。***
+![avatar](/media/files/images/avatar.jpg)
+
 
 一个化学专业的业余coding爱好者，能力仅限于把所看到的代码输入到电脑上。没有丝毫代码知识，没有任何编程方面的创造能力。  
 
