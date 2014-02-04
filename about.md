@@ -1,8 +1,7 @@
 ---
-layout: POST
 title: About
+layout: post
 guid: urn:uuid:1a4e07d7-6569-49e8-9ad4-a785ecc094eb
-header: Posts By Daodao
 group: navigation
 tagline: "柳刀刀"
 ---
