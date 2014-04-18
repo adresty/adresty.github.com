@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "淘宝店最差的好评：夏小姐的多肉世界"
+title: "我在淘宝最差的好评：夏小姐的多肉世界"
 guid: urn:uuid:4d67d280-ed0b-4a2c-aebf-16f8432efcc0
 categories: life
 tagline: "见证了淘宝这么多年发展的王先生表示，这是这么多年来见过的最无聊的事情。"
